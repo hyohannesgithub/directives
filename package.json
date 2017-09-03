@@ -1,0 +1,19 @@
+{
+  "name": "directives",
+  "version": "1.0.0",
+  "description": "angularJS Todo - making a directive to allow HTML to be more dynamic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyohannesgithub/directives.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyohannesgithub/directives/issues"
+  },
+  "homepage": "https://github.com/hyohannesgithub/directives#readme"
+}
